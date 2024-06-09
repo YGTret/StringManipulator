@@ -1,1 +1,24 @@
-1
+{
+    "name": "StringManipulator",
+    "version": "1.0.0",
+    "description": "A library for string manipulation",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/YGTret/StringManipulator.git"
+    },
+    "keywords": [
+      "string",
+      "manipulation",
+      "utility"
+    ],
+    "author": "Yaroslav Tretelnitsky",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/YGTret/StringManipulator/issues"
+    },
+    "homepage": "https://github.com/YGTret/StringManipulator#readme"
+  }
